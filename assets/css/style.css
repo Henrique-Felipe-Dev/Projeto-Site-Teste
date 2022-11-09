@@ -1,0 +1,30 @@
+.text-center {
+    text-align: center;
+}
+
+.text-arial {
+    font-family: Arial;
+}
+
+.img-tm {
+    width: auto;
+    height: 500px;
+}
+
+#titulo {
+    text-decoration: underline;
+}
+
+.menu li {
+    display: inline;
+    padding: 10px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: black;
+}
+
+.menu a:hover {
+    color: gray;
+}
